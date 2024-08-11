@@ -1,1 +1,1 @@
-# MorphL2
+Follow the setup instructions provided on the Morph L2 documentation to add the Morph L2 Holesky Network to your Metamask. Visit their wallet setup guide https://docs.morphl2.io/docs/quick-start/wallet-setup/ for details.# MorphL2
